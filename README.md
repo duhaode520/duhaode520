@@ -8,10 +8,10 @@
 -  📖 I’m currently studying [Peking University](https://www.pku.edu.cn/)  
   
 
-- 🌱 I’m currently learning Hadoop-Spark and Deep Learning  
+- 🌱 I’m currently learning Big Data and Deep Learning  
   
 
-- ✉️ Concat me at [dhd_520@pku.edu.cn](dhd_520@pku.edu.cn)  
+- ✉️ Contact me at [dhd_520@pku.edu.cn](dhd_520@pku.edu.cn)  
   
 
 <br/>  
