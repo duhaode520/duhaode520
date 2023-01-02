@@ -5,7 +5,7 @@
 ### <div align="center">I'm Haode. A Bug Creater/Eliminator 🐞</div>  
   
 
--  📖 I’m currently studying [Peking University](https://www.pku.edu.cn/)  
+-  📖 I’m currently studying in [Peking University](https://www.pku.edu.cn/)  
   
 
 - 🌱 I’m currently learning Big Data and Deep Learning  
